@@ -49,9 +49,16 @@ Test7
 ![k14](https://github.com/furkanyunkul/YuzMaskesiTespiti/blob/main/Sonuc7.png)]
 
 
-Video Test
+Video-1 Test
 
 
 
 ![k15](https://github.com/furkanyunkul/YuzMaskesiTespiti/blob/main/Video.gif)]
+
+
+
+Video-2 Test
+![k16](https://github.com/furkanyunkul/YuzMaskesiTespiti/blob/main/Video2.gif)]
+![k17](https://github.com/furkanyunkul/YuzMaskesiTespiti/blob/main/Video3.gif)]
+
 
