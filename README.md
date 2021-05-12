@@ -50,5 +50,8 @@ Test7
 
 
 Video Test
+
+
+
 ![k15](https://github.com/furkanyunkul/YuzMaskesiTespiti/blob/main/Video.gif)]
 
