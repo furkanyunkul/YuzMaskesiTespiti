@@ -33,3 +33,10 @@ Test5
 
 ![k9](https://github.com/furkanyunkul/YuzMaskesiTespiti/blob/main/test5.jpg)]
 ![k10](https://github.com/furkanyunkul/YuzMaskesiTespiti/blob/main/Sonuc5.png)]
+
+
+Test6
+
+
+![k11](https://github.com/furkanyunkul/YuzMaskesiTespiti/blob/main/test6.jpg)]
+![k12](https://github.com/furkanyunkul/YuzMaskesiTespiti/blob/main/Sonuc6.png)]
