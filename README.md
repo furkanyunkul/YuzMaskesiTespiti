@@ -48,3 +48,7 @@ Test7
 ![k13](https://github.com/furkanyunkul/YuzMaskesiTespiti/blob/main/test7.jpg)]
 ![k14](https://github.com/furkanyunkul/YuzMaskesiTespiti/blob/main/Sonuc7.png)]
 
+
+Video Test
+![k15](https://github.com/furkanyunkul/YuzMaskesiTespiti/blob/main/Video.gif)]
+
