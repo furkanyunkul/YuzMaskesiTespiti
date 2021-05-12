@@ -40,3 +40,11 @@ Test6
 
 ![k11](https://github.com/furkanyunkul/YuzMaskesiTespiti/blob/main/test6.jpg)]
 ![k12](https://github.com/furkanyunkul/YuzMaskesiTespiti/blob/main/Sonuc6.png)]
+
+
+Test7
+
+
+![k13](https://github.com/furkanyunkul/YuzMaskesiTespiti/blob/main/test7.jpg)]
+![k14](https://github.com/furkanyunkul/YuzMaskesiTespiti/blob/main/Sonuc7.png)]
+
