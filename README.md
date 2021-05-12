@@ -16,12 +16,20 @@ Test2
 
 Test3
 
+
 ![k5](https://github.com/furkanyunkul/YuzMaskesiTespiti/blob/main/test3.jpg)]
 ![k6](https://github.com/furkanyunkul/YuzMaskesiTespiti/blob/main/Sonuc3.png)]
 
 
 Test4
+
+
 ![k7](https://github.com/furkanyunkul/YuzMaskesiTespiti/blob/main/test4.jpg)]
 ![k8](https://github.com/furkanyunkul/YuzMaskesiTespiti/blob/main/Sonuc4.png)]
 
 
+Test5
+
+
+![k9](https://github.com/furkanyunkul/YuzMaskesiTespiti/blob/main/test5.jpg)]
+![k10](https://github.com/furkanyunkul/YuzMaskesiTespiti/blob/main/Sonuc5.png)]
