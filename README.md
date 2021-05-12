@@ -14,3 +14,10 @@ Test2
 ![k4](https://github.com/furkanyunkul/YuzMaskesiTespiti/blob/main/Sonuc2.png)]
 
 
+Test2
+
+![k5](https://github.com/furkanyunkul/YuzMaskesiTespiti/blob/main/test3.jpg)]
+![k6](https://github.com/furkanyunkul/YuzMaskesiTespiti/blob/main/Sonuc3.png)]
+
+
+
